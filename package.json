@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/adobe/universal-editor-cors#readme",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^20.1.0"
   }
 }
