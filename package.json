@@ -2,11 +2,19 @@
   "name": "@adobe/universal-editor-cors",
   "version": "0.0.0",
   "description": "Utility providing communication layer between edited App and Universal Editor.",
-  "main": "npmjs/universal-editor-embedded.js",
+  "main": "dist/universal-editor-embedded.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adobe/universal-editor-cors.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "readme.md",
+    "dist/*"
+  ],
   "keywords": [
     "universal-editor"
   ],
