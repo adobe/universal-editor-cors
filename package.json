@@ -1,0 +1,28 @@
+{
+  "name": "@adobe/universal-editor-cors",
+  "version": "0.0.0",
+  "description": "Utility providing communication layer between edited App and Universal Editor.",
+  "main": "npmjs/universal-editor-embedded.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adobe/universal-editor-cors.git"
+  },
+  "keywords": [
+    "universal-editor"
+  ],
+  "author": "Adobe Systems Inc. <sitexpci@adobe.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adobe/universal-editor-cors/issues"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "homepage": "https://github.com/adobe/universal-editor-cors#readme",
+  "devDependencies": {
+    "semantic-release": "^20.1.0"
+  },
+  "release": {
+    "branches": ["main"]
+  }
+}
