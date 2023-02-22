@@ -1,6 +1,6 @@
 {
   "name": "@adobe/universal-editor-cors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility providing communication layer between edited App and Universal Editor.",
   "main": "dist/universal-editor-embedded.js",
   "repository": {
