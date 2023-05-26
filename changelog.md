@@ -6,3 +6,7 @@ fix: resolve in-app navigation
 
 feat: update namespace for meta tag
 fix: improve overlay support
+## 1.1.2 (2023-05-26)
+
+fix: add css class when loaded in the editor
+
