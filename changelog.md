@@ -10,3 +10,7 @@ fix: improve overlay support
 
 fix: add css class when loaded in the editor
 
+## 1.2.0 (2023-06-22)
+
+feat: editable structure updated
+
