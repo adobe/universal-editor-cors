@@ -14,3 +14,7 @@ fix: add css class when loaded in the editor
 
 feat: editable structure updated
 
+## 1.2.1 (2023-07-04)
+
+fix: enable update of assets
+
