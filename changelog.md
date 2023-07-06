@@ -18,3 +18,7 @@ feat: editable structure updated
 
 fix: enable update of assets
 
+## 1.2.2 (2023-07-06)
+
+fix: add in dom move capability 
+
