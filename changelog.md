@@ -22,3 +22,7 @@ fix: enable update of assets
 
 fix: add in dom move capability 
 
+## 1.2.3 (2023-07-10)
+
+fix: add logic for move
+
