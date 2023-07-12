@@ -26,3 +26,7 @@ fix: add in dom move capability
 
 fix: add logic for move
 
+## 1.3.0 (2023-07-12)
+
+new release
+
