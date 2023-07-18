@@ -30,3 +30,7 @@ fix: add logic for move
 
 new release
 
+## 1.3.1 (2023-07-18)
+
+fix: improve move method
+
