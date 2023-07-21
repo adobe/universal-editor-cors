@@ -34,3 +34,7 @@ new release
 
 fix: improve move method
 
+## 1.3.2 (2023-07-21)
+
+fix: fetch components definition
+
