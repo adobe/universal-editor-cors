@@ -38,3 +38,7 @@ fix: improve move method
 
 fix: fetch components definition
 
+## 1.3.3 (2023-07-27)
+
+fix: replace item type image with media
+
