@@ -42,3 +42,7 @@ fix: fetch components definition
 
 fix: replace item type image with media
 
+## 1.3.4 (2023-08-04)
+
+fix: add support for insertion
+
