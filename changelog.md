@@ -46,3 +46,7 @@ fix: replace item type image with media
 
 fix: add support for insertion
 
+## 1.3.5 (2023-08-18)
+
+fix: Asset Selector crashes with relative image sources
+
