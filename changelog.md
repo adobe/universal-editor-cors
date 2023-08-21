@@ -54,3 +54,7 @@ fix: Asset Selector crashes with relative image sources
 
 fix: adapt update field method
 
+## 1.3.7 (2023-08-21)
+
+fix:dispatch event on update
+
