@@ -50,3 +50,7 @@ fix: add support for insertion
 
 fix: Asset Selector crashes with relative image sources
 
+## 1.3.6 (2023-08-21)
+
+fix: adapt update field method
+
