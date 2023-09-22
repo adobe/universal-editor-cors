@@ -58,3 +58,7 @@ fix: adapt update field method
 
 fix:dispatch event on update
 
+## 1.4.0 (2023-09-22)
+
+fix: add getDocumentProperties
+
