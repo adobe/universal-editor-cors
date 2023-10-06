@@ -62,3 +62,7 @@ fix:dispatch event on update
 
 fix: add getDocumentProperties
 
+## 1.4.1 (2023-10-06)
+
+fix: validate instrumentation
+
