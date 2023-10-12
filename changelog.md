@@ -66,3 +66,7 @@ fix: add getDocumentProperties
 
 fix: validate instrumentation
 
+## 1.4.2 (2023-10-12)
+
+fix: minor issue fixes
+
