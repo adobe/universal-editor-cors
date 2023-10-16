@@ -70,3 +70,7 @@ fix: validate instrumentation
 
 fix: minor issue fixes
 
+## 1.4.3 (2023-10-16)
+
+fix: split component and model definition
+
