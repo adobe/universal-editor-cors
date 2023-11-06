@@ -74,3 +74,7 @@ fix: minor issue fixes
 
 fix: split component and model definition
 
+## 1.4.4 (2023-11-06)
+
+fix: handle additional level (category) in urn
+
