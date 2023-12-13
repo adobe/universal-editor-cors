@@ -78,3 +78,7 @@ fix: split component and model definition
 
 fix: handle additional level (category) in urn
 
+## 1.4.5 (2023-12-13)
+
+fix: adapt incontext update
+
