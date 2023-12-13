@@ -82,3 +82,7 @@ fix: handle additional level (category) in urn
 
 fix: adapt incontext update
 
+## 1.4.6 (2023-12-13)
+
+fix: in context standalone field
+
