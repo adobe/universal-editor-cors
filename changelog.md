@@ -86,3 +86,7 @@ fix: adapt incontext update
 
 fix: in context standalone field
 
+## 1.4.7 (2023-12-14)
+
+fix: update event model
+
