@@ -90,3 +90,7 @@ fix: in context standalone field
 
 fix: update event model
 
+## 1.4.8 (2024-01-09)
+
+fix: improve id generation
+
