@@ -94,3 +94,7 @@ fix: update event model
 
 fix: improve id generation
 
+## 2.0.0 (2024-01-15)
+
+feat!: update to use data-attrs
+
