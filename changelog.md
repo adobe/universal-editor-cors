@@ -98,3 +98,7 @@ fix: improve id generation
 
 feat!: update to use data-attrs
 
+## 2.1.0 (2024-01-25)
+
+feat: add select + move event listeners
+
