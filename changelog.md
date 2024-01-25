@@ -102,3 +102,7 @@ feat!: update to use data-attrs
 
 feat: add select + move event listeners
 
+## 2.1.1 (2024-01-25)
+
+fix: update types
+
