@@ -106,3 +106,7 @@ feat: add select + move event listeners
 
 fix: update types
 
+## 2.2.0 (2024-01-29)
+
+feat: add support for inline rte
+
