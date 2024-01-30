@@ -110,3 +110,7 @@ fix: update types
 
 feat: add support for inline rte
 
+## 2.2.1 (2024-01-30)
+
+fix: resolve scrolling issue
+
