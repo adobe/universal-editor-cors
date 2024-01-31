@@ -114,3 +114,7 @@ feat: add support for inline rte
 
 fix: resolve scrolling issue
 
+## 2.2.2 (2024-01-31)
+
+fix: add default remove event listener
+
