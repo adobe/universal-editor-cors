@@ -118,3 +118,7 @@ fix: resolve scrolling issue
 
 fix: add default remove event listener
 
+## 2.2.3 (2024-02-13)
+
+fix: add default listeners
+
