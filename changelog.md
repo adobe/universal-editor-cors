@@ -122,3 +122,7 @@ fix: add default remove event listener
 
 fix: add default listeners
 
+## 2.2.4 (2024-02-14)
+
+fix:resolve remove listener
+
