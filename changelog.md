@@ -126,3 +126,7 @@ fix: add default listeners
 
 fix:resolve remove listener
 
+## 2.2.5 (2024-02-16)
+
+fix: improve event listeners
+
