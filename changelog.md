@@ -130,3 +130,7 @@ fix:resolve remove listener
 
 fix: improve event listeners
 
+## 2.2.6 (2024-02-19)
+
+fix: adapt default move listener
+
