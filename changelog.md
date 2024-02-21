@@ -134,3 +134,7 @@ fix: improve event listeners
 
 fix: adapt default move listener
 
+## 2.2.7 (2024-02-21)
+
+fix: remove deprecated methods
+
