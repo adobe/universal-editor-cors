@@ -138,3 +138,7 @@ fix: adapt default move listener
 
 fix: remove deprecated methods
 
+## 2.2.8 (2024-02-27)
+
+fix: update patch listener
+
