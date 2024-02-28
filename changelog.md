@@ -142,3 +142,7 @@ fix: remove deprecated methods
 
 fix: update patch listener
 
+## 2.2.9 (2024-02-28)
+
+fix: adapt rte config
+
