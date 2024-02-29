@@ -146,3 +146,7 @@ fix: update patch listener
 
 fix: adapt rte config
 
+## 2.2.10 (2024-02-29)
+
+fix: sanitize rte output
+
