@@ -150,3 +150,7 @@ fix: adapt rte config
 
 fix: sanitize rte output
 
+## 2.2.11 (2024-03-04)
+
+fix: rte improvements
+
