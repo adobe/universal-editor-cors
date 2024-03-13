@@ -154,3 +154,7 @@ fix: sanitize rte output
 
 fix: rte improvements
 
+## 2.2.12 (2024-03-13)
+
+fix: resolve asset issues
+
