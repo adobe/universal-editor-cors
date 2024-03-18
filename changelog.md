@@ -158,3 +158,7 @@ fix: rte improvements
 
 fix: resolve asset issues
 
+## 2.3.0 (2024-03-18)
+
+fix: include the released version in the build
+
