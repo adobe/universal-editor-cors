@@ -158,3 +158,7 @@ fix: rte improvements
 
 fix: resolve asset issues
 
+## 2.2.13 (2024-03-18)
+
+include cors package version in the build
+
