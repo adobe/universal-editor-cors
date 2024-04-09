@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/adobe/universal-editor-cors/blob/main/LICENSE)
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![NPM Version](https://img.shields.io/npm/v/@adobe/universal-editor-cors.svg)](https://www.npmjs.com/package/@adobe/universal-editor-cors)
 
 This utility provides communication layer between edited App and Universal Editor.
 
