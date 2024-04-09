@@ -162,3 +162,7 @@ fix: resolve asset issues
 
 include cors package version in the build
 
+## 2.2.14 (2024-4-9)
+
+improve hotkey relay mechanism
+
