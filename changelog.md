@@ -166,3 +166,7 @@ include cors package version in the build
 
 improve hotkey relay mechanism
 
+## 2.2.15 (2024-04-23 15:39:23)
+
+fix: resolve patch listener issue
+
