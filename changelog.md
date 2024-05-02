@@ -170,3 +170,7 @@ improve hotkey relay mechanism
 
 fix: resolve patch listener issue
 
+## 2.2.16 (2024-04-25 09:46:49)
+
+fix: observer for meta configs
+
