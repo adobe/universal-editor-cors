@@ -174,3 +174,7 @@ fix: resolve patch listener issue
 
 fix: observer for meta configs
 
+## 2.3.0 (2024-05-23 15:19:16)
+
+feat: adapt id generation
+
