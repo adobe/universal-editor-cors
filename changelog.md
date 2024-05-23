@@ -178,3 +178,7 @@ fix: observer for meta configs
 
 feat: adapt id generation
 
+## 2.3.1 (2024-05-23 17:51:00)
+
+fix: update selection event to accomodate duplicates
+
