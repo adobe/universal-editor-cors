@@ -182,3 +182,7 @@ feat: adapt id generation
 
 fix: update selection event to accomodate duplicates
 
+## 2.3.2 (2024-05-27 10:46:19)
+
+fix: resolve parent id generation for cf container
+
