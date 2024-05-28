@@ -186,3 +186,7 @@ fix: update selection event to accomodate duplicates
 
 fix: resolve parent id generation for cf container
 
+## 2.3.3 (2024-05-28 16:42:23)
+
+fix: resolve rte config naming
+
