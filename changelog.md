@@ -190,3 +190,7 @@ fix: resolve parent id generation for cf container
 
 fix: resolve rte config naming
 
+## 2.3.4 (2024-06-11 17:34:17)
+
+fix: improve move listener
+
