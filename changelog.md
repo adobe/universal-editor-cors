@@ -194,3 +194,7 @@ fix: resolve rte config naming
 
 fix: improve move listener
 
+## 2.3.5 (2024-06-28 13:51:31)
+
+fix: update tinymce
+
