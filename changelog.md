@@ -198,3 +198,7 @@ fix: improve move listener
 
 fix: update tinymce
 
+## 2.3.6 (2024-08-08 10:48:45)
+
+fix: enable move across containers
+
