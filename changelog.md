@@ -202,3 +202,7 @@ fix: update tinymce
 
 fix: enable move across containers
 
+## 2.4.0 (2024-08-22 11:22:23)
+
+feat: add support for copy
+
