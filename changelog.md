@@ -202,3 +202,7 @@ fix: update tinymce
 
 fix: enable move across containers
 
+## 2.3.7 (2024-08-23 10:14:24)
+
+fix: add fallback listener for copy
+
