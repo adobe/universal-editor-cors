@@ -6,6 +6,10 @@
 
 This utility provides communication layer between edited App and Universal Editor.
 
+# !!! DEPRECATED !!!
+This library shall no longer be used. Universal Editor is showing a deprecation warning and will stop support May 31st 2025. 
+Please refrain from using this library!
+
 ## Installation and usage
 
 ```sh
